@@ -1,5 +1,6 @@
 # :pushpin: AIM
 This software in under GPL 2 License
+
 This is the main files for **AIM**
 AIM is an abreviation for AFR IQ MAF
 
@@ -13,5 +14,5 @@ Import in VS22
 
 # :link: Social
 :alembic: Twitter :fr:
-> [https://twitter.com/GR_TwoStep](https://twitter.com/Sinaris_)
+> [https://twitter.com/Sinaris_](https://twitter.com/Sinaris_)
 
